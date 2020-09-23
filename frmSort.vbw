@@ -1,0 +1,6 @@
+frmMain = 110, 110, 651, 454, Z, 22, 22, 563, 366, C
+clsInsertSort = 66, 66, 607, 410, 
+clsMergeSort = 88, 88, 629, 432, 
+clsQuickSort = 96, 57, 637, 401, 
+clsRadixSort = 132, 132, 673, 476, 
+clsHeapSort = 56, 54, 597, 398, 
